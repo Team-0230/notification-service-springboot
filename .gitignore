@@ -35,7 +35,7 @@ spring-boot-starter-parent.iml
 Thumbs.db
 
 # Application properties file
-/src/main/resources/application.properties
+/src/main/resources/application.yml
 /src/main/recources/application.yml
 
 # Dependency lock files
